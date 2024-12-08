@@ -1,0 +1,22 @@
+{
+  "Alto K10": {
+    "variants": ["STD", "LXI", "VXI", "VXI+"],
+    "price_range": ["3.99", "4.25", "4.75", "5.00", "5.96"]
+  },
+  "Wagon R": {
+    "variants": ["LXI", "VXI", "ZXI", "ZXI+"],
+    "price_range": ["5.54", "6.25", "6.75", "7.00", "7.38"]
+  },
+  "Celerio": {
+    "variants": ["LXI", "VXI", "ZXI", "ZXI+"],
+    "price_range": ["4.99", "6.00", "6.75", "7.04"]
+  },
+  "Fronx": {
+    "variants": ["Sigma", "Delta", "Zeta", "Alpha", "Alpha Dual Tone"],
+    "price_range": ["7.51", "10", "11", "12", "13.04"]
+  },
+  "Jimny": {
+    "variants": ["Zeta", "Alpha"],
+    "price_range": ["12.74", "14.95"]
+  }
+}
